@@ -1,0 +1,1 @@
+"./spi.obj" "./main.obj" "./bt.obj" "./bio.obj" "./accelgyro.obj" "../lnk_msp430f5342.cmd" -l"libc.a" -l"libmath.a" 

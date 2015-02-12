@@ -1,0 +1,19 @@
+# FIXED
+
+bt.obj: ../bt.c
+bt.obj: ../bt.h
+bt.obj: c:/ti/ccsv6/ccs_base/msp430/include/msp430.h
+bt.obj: c:/ti/ccsv6/ccs_base/msp430/include/msp430f5342.h
+bt.obj: c:/ti/ccsv6/ccs_base/msp430/include/in430.h
+bt.obj: c:/ti/ccsv6/tools/compiler/msp430_4.3.1/include/intrinsics.h
+bt.obj: c:/ti/ccsv6/tools/compiler/msp430_4.3.1/include/stdint.h
+bt.obj: c:/ti/ccsv6/tools/compiler/msp430_4.3.1/include/intrinsics.h
+
+../bt.c: 
+../bt.h: 
+c:/ti/ccsv6/ccs_base/msp430/include/msp430.h: 
+c:/ti/ccsv6/ccs_base/msp430/include/msp430f5342.h: 
+c:/ti/ccsv6/ccs_base/msp430/include/in430.h: 
+c:/ti/ccsv6/tools/compiler/msp430_4.3.1/include/intrinsics.h: 
+c:/ti/ccsv6/tools/compiler/msp430_4.3.1/include/stdint.h: 
+c:/ti/ccsv6/tools/compiler/msp430_4.3.1/include/intrinsics.h: 
